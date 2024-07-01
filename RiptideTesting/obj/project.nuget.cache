@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESNxbpMrDwn8TNnbzqW/lVcezuNFaCnTjm+w2+LFesrabunJMBf2Kv4ow2ARtp0gQep3OZQdWQ3Nz4/qdfQ7oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ness from undertale\\source\\repos\\RiptideTesting\\RiptideTesting\\RiptideTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ness from undertale\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\ness from undertale\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\ness from undertale\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

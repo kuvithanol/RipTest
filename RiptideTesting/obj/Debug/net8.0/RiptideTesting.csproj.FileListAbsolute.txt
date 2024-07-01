@@ -1,0 +1,17 @@
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\bin\Debug\net8.0\RiptideTesting.exe
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\bin\Debug\net8.0\RiptideTesting.deps.json
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\bin\Debug\net8.0\RiptideTesting.runtimeconfig.json
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\bin\Debug\net8.0\RiptideTesting.dll
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\bin\Debug\net8.0\RiptideTesting.pdb
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\bin\Debug\net8.0\RiptideNetworking.dll
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\RiptideTesting.csproj.AssemblyReference.cache
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\RiptideTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\RiptideTesting.AssemblyInfoInputs.cache
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\RiptideTesting.AssemblyInfo.cs
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\RiptideTesting.csproj.CoreCompileInputs.cache
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\RiptideT.D8B7F97B.Up2Date
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\RiptideTesting.dll
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\refint\RiptideTesting.dll
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\RiptideTesting.pdb
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\RiptideTesting.genruntimeconfig.cache
+C:\Users\ness from undertale\source\repos\RiptideTesting\RiptideTesting\obj\Debug\net8.0\ref\RiptideTesting.dll
